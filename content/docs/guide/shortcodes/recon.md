@@ -1,6 +1,6 @@
 ---
-title: Callout Shortcode
-linkTitle: Callout
+title: 01. Reconnaissance and Information Gathering
+linkTitle: Recon
 ---
 
 Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.
