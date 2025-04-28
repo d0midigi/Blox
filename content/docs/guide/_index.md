@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: HackHerWay Handbook
 weight: 2
 sidebar:
   open: true
