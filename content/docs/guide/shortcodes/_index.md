@@ -1,5 +1,5 @@
 ---
-title: Shortcodes
+title: Cybersecurity Handbooks
 ---
 
 Build the best docs with re-usable components, referred to as Hugo shortcodes:
